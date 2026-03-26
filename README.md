@@ -52,8 +52,8 @@ Two approaches were explored:
 
 ## 👤 Author
 
--- Ahmed Souleymane Sow
--- Master’s Student in Data Science
--- African Institute for Mathematical Sciences (AIMS), Senegal
+- Ahmed Souleymane Sow
+- Master’s Student in Data Science
+- African Institute for Mathematical Sciences (AIMS), Senegal
 
 ---
